@@ -2,3 +2,7 @@
 
 Make sure to include your firebase.js file as src/FIrebase/Firebase.js
 
+Result:-
+
+![firebaseProj](https://user-images.githubusercontent.com/68842692/192097011-e7ec7cfd-e59f-4d8a-9558-ab4cfb1e4107.png)
+
