@@ -1,0 +1,31 @@
+.mainDiv{
+    display: flex;
+    justify-content: space-between;
+    max-width: 20rem;
+    margin: 0 auto .5rem auto;
+    background-color: #E3E9FF;
+    padding: .6rem 1rem;
+    border-radius: .5rem;
+    align-items: center;
+}
+
+
+.addInput{
+    padding: .3rem 3rem .3rem .2rem;
+    border-radius: .2rem;
+    border: 1px solid #4711DE;
+    
+}
+
+.addInput:focus{
+    outline: 1px solid #160545;
+}
+
+.addBtn{
+    padding: .4rem 1rem;
+    background-color: #160545;
+    border: none;
+    cursor: pointer;
+    color: white;
+    border-radius: .2rem;
+}

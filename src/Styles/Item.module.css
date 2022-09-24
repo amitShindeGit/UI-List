@@ -1,0 +1,42 @@
+.itemMainDIv {
+    display: flex;
+    justify-content: space-between;
+    max-width: 20rem;
+    margin: 0 auto .5rem auto;
+    background-color: #E3E9FF;
+    padding: .6rem 1rem;
+    border-radius: .5rem;
+    align-items: center;
+}
+.leftDiv{
+    
+}
+
+.rightDiv{
+    display: flex;
+    
+}
+
+.rightFirstDiv i{
+    /* padding: 0 .5rem; */
+}
+
+.rightFirstDiv i:last-child{
+    /* margin-right: 1rem; */
+}
+
+.arrowBtn{
+    background-color: transparent;
+    border: none;
+    max-width: 1rem;
+    margin:  0 .5rem;
+}
+
+.rightFirstDiv button:last-child {
+    margin-right: 1rem;
+} 
+
+.deleteIcn{
+    color: red;
+    cursor: pointer;
+}
